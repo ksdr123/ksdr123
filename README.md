@@ -14,7 +14,7 @@
 
 [영남이공대학교](http://www.ync.ac.kr)
 
-![프로필 이미지](../ddd.jpg)
+![프로필 이미지](./ddd.jpg)
 
 ### Hi there 👋
 
